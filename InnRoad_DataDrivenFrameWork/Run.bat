@@ -1,1 +1,3 @@
-java -cp InnRoad_DataDrivenFrameWork\bin;InnRoad_DataDrivenFrameWork\lib\* org.testng.TestNG test-output\testng-results.xml
+C:
+cd InnRoad_DataDrivenFrameWork\lib
+java -cp InnRoad_DataDrivenFrameWork\bin;InnRoad_DataDrivenFrameWork\lib\* org.testng.TestNG testng.xml
